@@ -1,0 +1,5 @@
+Mail birthday card	Buy a 30th birthday card for John	2021-12-05
+Doctor's Appointment	See Dr. Smith at 123 Main Street. Bring paperwork	2021-11-30
+Finish design proposal for client	I promised Mike I'd email website mockups by Monday November 29 	2021-11-29
+Pick up Doug at the train station	Doug's arriving on October 31 on the 5:00 train	2021-10-31
+Pick up dry cleaning	The clothes should be ready by Friday	2021-12-24
